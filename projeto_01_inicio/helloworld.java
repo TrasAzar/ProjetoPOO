@@ -1,4 +1,4 @@
-package projetosaula2;
+package projeto_01_inicio;
 
 public class helloworld{
     public static void main(String[] args){
